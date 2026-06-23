@@ -1,9 +1,9 @@
-Dataset tải ở: 
+# Dataset tải ở: 
 
 [ACDC](https://humanheart-project.creatis.insa-lyon.fr/database/#collection/637218c173e9f0047faa00fb)
 
 
-setup nnU-Net
+## Setup nnU-Net
 ##### Bước 1
 ```powershell
 pip install nnunet
